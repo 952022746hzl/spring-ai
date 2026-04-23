@@ -1,0 +1,14 @@
+server:
+  port: 8899
+
+spring:
+  application:
+    name: spring-ai-study
+  ai:
+    openai:
+      api-key: XXXXX
+      base-url: https://api.moonshot.cn
+      chat:
+        options:
+          model: kimi-k2.5
+          temperature: 1
