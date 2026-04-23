@@ -39,5 +39,5 @@ build/
 .DS_Store
 
 ### YAML Files ###
-*.yaml
+/src/main/resources/application.yaml
 *.yml
